@@ -23,7 +23,7 @@ debugging, monitoring and continuously improving them.**
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,githubactions" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,githubactions" height="45"/>
 </p>
 
 ### Backend & Development
